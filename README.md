@@ -6,6 +6,7 @@
 
 ### Languages I speak
 
+|              |             |              |
 |--------------|------------|---------------|
 | Korean       | Chinese    | Spanish       |
 | JavaScript   | HTML       | CSS & SCSS    |
