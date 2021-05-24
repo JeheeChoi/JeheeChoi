@@ -1,10 +1,10 @@
 # Hello, my name is J
 
 ![quote](https://i.imgur.com/eWl8YDt.jpg)
+#### My coding journey has begun with this random thought ⬆️⬆️⬆️
 
-#### ⬆️⬆️⬆️ With this random thought, my coding journey has begun👩🏻‍💻
 
-### Languages I speak
+### Languages I speak 👩🏻‍💻
 
 |              |             |              |
 |--------------|------------|---------------|
