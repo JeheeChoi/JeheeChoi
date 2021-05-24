@@ -8,8 +8,8 @@
 
 |              |             |              |
 |--------------|------------|---------------|
-| Korean       | Chinese    | Spanish       |
 | JavaScript   | HTML       | CSS & SCSS    |
 | React.JS     | NoSQL      | SQL           |
 | Python       | Django     | Flask         |
 | Figma        | AdobeXd    | AWS S3        |
+| Korean       | Chinese    | Spanish       |
