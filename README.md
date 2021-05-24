@@ -6,8 +6,7 @@
 
 ### Languages I speak
 
-| Korean   | Chinese    | Spanish        |
-|---------|----------|----------|
+| Korean       | Chinese    | Spanish       |
 | JavaScript   | HTML       | CSS & SCSS    |
 | React.JS     | NoSQL      | SQL           |
 | Python       | Django     | Flask         |
