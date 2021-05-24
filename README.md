@@ -4,7 +4,7 @@
 #### My coding journey has begun with this random thought ⬆️⬆️⬆️
 
 
-### Languages I speak 👩🏻‍💻
+### My Language skills 👩🏻‍💻
 |              |             |              |
 |--------------|------------|---------------|
 | JavaScript   | HTML       | CSS & SCSS    |
