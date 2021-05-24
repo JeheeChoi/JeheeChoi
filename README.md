@@ -2,7 +2,7 @@
 
 ![quote](https://i.imgur.com/eWl8YDt.jpg)
 
-## ⬆️⬆️⬆️ With this random thought, my coding journey has begun👩🏻‍💻
+#### ⬆️⬆️⬆️ With this random thought, my coding journey has begun👩🏻‍💻
 
 ### Languages I speak
 
